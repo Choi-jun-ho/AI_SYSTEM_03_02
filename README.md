@@ -1,0 +1,2 @@
+# AI_SYSTEM_03_02
+3학년 2학기 AI SYSTEM 수업
